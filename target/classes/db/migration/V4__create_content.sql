@@ -1,0 +1,6 @@
+CREATE TABLE content (
+    id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(150) NOT NULL,
+    body TEXT NOT NULL,
+    category VARCHAR(50)
+) ENGINE=InnoDB;
