@@ -1,49 +1,49 @@
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\CarePlusNutritionApplication.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\config\FatSecretProperties.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\config\OpenApiConfig.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\config\SecurityConfig.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\config\WebClientConfig.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\controller\AuthController.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\controller\ChallengeController.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\controller\ContentController.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\controller\NutritionController.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\controller\UserController.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\Challenge.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\Content.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\Meal.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\MealItem.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\User.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\UserChallenge.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\entity\UserProfile.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\ChallengeRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\ContentRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\MealItemRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\MealRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\UserChallengeRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\UserProfileRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\domain\repository\UserRepository.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\AuthRequestDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\AuthResponseDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\ChallengeDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\ContentDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\FatSecretFoodDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\MealItemDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\MealRequestDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\MealResponseDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\dto\UserDTO.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\exception\ApiExceptionHandler.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\exception\BusinessException.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\security\JwtAuthenticationFilter.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\security\JwtTokenProvider.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\AuthService.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\ChallengeService.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\ContentService.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\FatSecretService.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\AuthServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\ChallengeServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\ContentServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\FatSecretServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\NutritionServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\impl\UserServiceImpl.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\NutritionService.java
-C:\Users\andre\Downloads\careplus_full\src\main\java\br\com\careplus\nutrition\service\UserService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/CarePlusNutritionApplication.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/config/FatSecretProperties.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/config/OpenApiConfig.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/config/SecurityConfig.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/config/WebClientConfig.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/controller/AuthController.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/controller/ChallengeController.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/controller/ContentController.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/controller/NutritionController.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/controller/UserController.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/Challenge.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/Content.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/Meal.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/MealItem.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/User.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/UserChallenge.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/entity/UserProfile.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/ChallengeRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/ContentRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/MealItemRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/MealRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/UserChallengeRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/UserProfileRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/domain/repository/UserRepository.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/AuthRequestDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/AuthResponseDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/ChallengeDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/ContentDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/FatSecretFoodDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/MealItemDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/MealRequestDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/MealResponseDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/dto/UserDTO.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/exception/ApiExceptionHandler.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/exception/BusinessException.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/security/JwtAuthenticationFilter.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/security/JwtTokenProvider.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/AuthService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/ChallengeService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/ContentService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/FatSecretService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/NutritionService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/UserService.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/AuthServiceImpl.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/ChallengeServiceImpl.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/ContentServiceImpl.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/FatSecretServiceImpl.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/NutritionServiceImpl.java
+/home/gui/Área de Trabalho/challenge/challenge_soa/src/main/java/br/com/careplus/nutrition/service/impl/UserServiceImpl.java
